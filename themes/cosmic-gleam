@@ -1,0 +1,40 @@
+# Cosmic Gleam - A warm, earthy dark theme
+
+# Core colors
+background = #0f0f0f
+foreground = #f4decd
+
+# Cursor
+cursor-color = #b6b69a
+cursor-text = #0f0f0f
+
+# Selection
+selection-background = #3b403c
+selection-foreground = #f4decd
+
+# Standard colors (0-7)
+palette = 0=#272a28
+palette = 1=#f16e65
+palette = 2=#7ec97e
+palette = 3=#efbf71
+palette = 4=#71b4d6
+palette = 5=#e28dc6
+palette = 6=#7ec9a3
+palette = 7=#d9cdb5
+
+# Bright colors (8-15)
+palette = 8=#6c756f
+palette = 9=#ef968f
+palette = 10=#a4daa4
+palette = 11=#ef934d
+palette = 12=#b0d4e8
+palette = 13=#ebadd6
+palette = 14=#abd4bf
+palette = 15=#e3d6c9
+
+# gray0     = "#141514";
+# gray1     = "#1e1f1e";
+# gray4     = "#585f5b";
+# gray6     = "#888e7b";
+# gray7     = "#9a9c8b";
+# gray8     = "#b6b69a";

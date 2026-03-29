@@ -50,8 +50,8 @@ window-inherit-working-directory = false
 tab-inherit-working-directory = true
 split-inherit-working-directory = true
 
-# Theme - Gruvbox Material Medium Dark
-theme = Gruvbox Material Dark
+# Theme - custom
+theme = cosmic-gleam
 
 # Background image (uncomment to enable)
 background-image = /home/snehilshah/Walls/pixel/unicorn-flip.png
