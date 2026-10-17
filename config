@@ -3,6 +3,8 @@ font-family = Maple Mono NF
 font-style = Regular
 font-feature = +calt
 font-size = 10
+# Fit whole rows into the current 1080px display height.
+adjust-cell-height = -12%
 
 # Cursor
 cursor-style = block
