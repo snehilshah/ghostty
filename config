@@ -3,8 +3,10 @@ font-family = Maple Mono NF
 font-style = Regular
 font-feature = +calt
 font-size = 10
-# Fit whole rows into the current 1080px display height.
-adjust-cell-height = -12%
+# Tighter rows fit more on 1080px but make glyphs look wide; uncomment to use
+adjust-cell-height = -5%
+# Linear blending thickens light-on-dark text; native washes colors out on Linux
+alpha-blending = linear
 
 # Cursor
 cursor-style = block
