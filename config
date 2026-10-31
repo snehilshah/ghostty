@@ -32,9 +32,6 @@ window-padding-x = 0
 window-padding-y = 0
 window-padding-balance = true
 
-# Auto reload config
-auto-update = check
-
 # GTK Tab Styling (minimal like tmux/zellij)
 gtk-wide-tabs = false
 gtk-toolbar-style = flat
