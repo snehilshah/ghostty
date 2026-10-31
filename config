@@ -13,8 +13,9 @@ cursor-style-blink = false
 # Terminal
 term = xterm-ghostty
 
-# Scrollback (50000 lines)
-scrollback-limit = 100000000
+# Scrollback (50000 lines, per tab/split)
+scrollback-limit-lines = 50000
+scrollback-limit-bytes = unlimited
 
 # Selection - disable auto copy, use Ctrl+Shift+C to copy
 copy-on-select = false
